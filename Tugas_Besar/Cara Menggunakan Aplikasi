@@ -1,0 +1,14 @@
+Assalamualaikum wr.wb.
+
+Nama : M Alan Nur Ilkhan
+Nim : 32602000036
+
+Langkah-langkah menggunakan aplikasi
+
+1. Pertama masukan data mahasiswa dengan mengisi kolom ID dan Nama lalu klik tambah atau bisa klik import untuk menginport file dengan format txt (contoh tugasbesar.txt)
+2. Selanjutnya jika sudah selesai mengisi data anda dapat mengubah data dengan mengklik tombol update
+3. Anda juga bisa menghapus data dengan mengklik tombol delete
+4. Berikutnya masukan jumlah peserta di kolom yang disediakan
+5. Lalu hasilnya akan muncul sebagai nomor ID dan tinggal mencocokan ID dengan Nama yang ada di tabel mahasiswa.
+
+Wassalamualaikum wr. wb.
